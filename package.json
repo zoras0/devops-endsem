@@ -1,15 +1,14 @@
 {
-  "name": "my-app",
+  "name": "my-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-  "scripts": {
-  "test": "echo \"No tests defined yet\""
-}
-
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
